@@ -1,4 +1,4 @@
-# ###### Building a Calculator in Python
+**Building a Calculator in Python**
 ____
 ![Calc](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/calculator_money_currency_financial_tool.jpg?itok=2QMa1y8c "Calc")
 
@@ -6,4 +6,4 @@ ____
 
 - This is achieved by importing the RegEx(Regular Expressions) module and defining a function.
 
-**Kindly write to my e-mail id rajeevsuchiha@gmail.com in case of any queries or suggestions/advice.**
+*Kindly write to my e-mail id rajeevsuchiha@gmail.com in case of any queries or suggestions/advice.*
